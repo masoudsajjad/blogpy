@@ -3,3 +3,9 @@
 
 #virtual Env
 venv/
+
+#Databese
+db.sqlite3
+
+#migration
+blog/migrations/
