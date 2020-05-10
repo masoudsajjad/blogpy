@@ -9,3 +9,7 @@ db.sqlite3
 
 #migration
 blog/migrations/
+
+
+# stattic files
+files/
